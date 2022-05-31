@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="srv_arm.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="16"/>
+        <CursorPos X="43" Y="46"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="datamodule.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="DataModule"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="67" Y="25"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\lazarus\components\mORMot\SQLite3\mORMotHttpServer.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="814"/>
+        <CursorPos Y="841"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\lazarus\components\mORMot\SynCrtSock.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="8894"/>
+        <CursorPos Y="8921"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="14">
+      <Position>
+        <Filename Value="srv_arm.lpr"/>
+        <Caret Line="25" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="srv_arm.lpr"/>
+        <Caret Line="26" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="srv_arm.lpr"/>
+        <Caret Line="27" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="srv_arm.lpr"/>
+        <Caret Line="28" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="srv_arm.lpr"/>
+        <Caret Line="35" Column="45" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="srv_arm.lpr"/>
+        <Caret Line="43" Column="64" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="srv_arm.lpr"/>
+        <Caret Line="28" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="srv_arm.lpr"/>
+        <Caret Line="29" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="srv_arm.lpr"/>
+        <Caret Line="30" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="srv_arm.lpr"/>
+        <Caret Line="31" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="srv_arm.lpr"/>
+        <Caret Line="32" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\lazarus\components\mORMot\SynCrtSock.pas"/>
+        <Caret Line="8916" TopLine="8889"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\lazarus\components\mORMot\SynCrtSock.pas"/>
+        <Caret Line="8920" TopLine="8893"/>
+      </Position>
+      <Position>
+        <Filename Value="srv_arm.lpr"/>
+        <Caret Line="32" Column="20" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\lazarus\components\mORMot\SynCrtSock.pas"/>
+        <Caret Line="8921" TopLine="8894"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

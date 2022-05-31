@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus2_2_0h\fpc\bin\i386-win32\fpc.exe" Date="1421238928"/>
+  <Params Value=" -Tlinux -Paarch64 -MObjFPC -Scghi -O1 -l -vewnhibq -FiC:\lazarus2_2_0h\projects\srv_arm\lib\aarch64-linux -FiC:\lazarus2_2_0h\lazarus\components\mORMot -FiC:\lazarus2_2_0h\lazarus\components\mORMot\SQLite3 -FiC:\lazarus2_2_0h\lazarus\components\mORMot\CrossPlatform -FlC:\lazarus2_2_0h\lazarus\components\mORMot\static\aarch64-linux -FuC:\lazarus2_2_0h\lazarus\components\mORMot -FuC:\lazarus2_2_0h\lazarus\components\mORMot\SQLite3 -FuC:\lazarus2_2_0h\lazarus\components\mORMot\SQLite3\DDD\infra -FuC:\lazarus2_2_0h\projects\srv_arm\ -FUC:\lazarus2_2_0h\projects\srv_arm\lib\aarch64-linux\ -FEC:\lazarus2_2_0h\projects\srv_arm\ -oC:\lazarus2_2_0h\projects\srv_arm\srv_arm srv_arm.lpr"/>
+</CONFIG>
